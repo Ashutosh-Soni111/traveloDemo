@@ -1,0 +1,10 @@
+
+
+.loginpage #bodyOfLogin{
+    text-align: center;
+    color: cyan;
+}
+
+.loginpage h1{
+    font-size: 70px;
+}
